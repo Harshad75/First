@@ -1,4 +1,5 @@
 This is my first file!!
+<<<<<<< HEAD
 wvhqs
 	zamm	zm	z
 	'	zll	z
@@ -8,6 +9,11 @@ wvhqs
 		z  AZnwkaxnkn
 		wqbxd
 		
+
+
+
+
+
 
 
 
